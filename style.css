@@ -3,11 +3,10 @@
 body {
   width: 100%;
   height: 100vh;
-
   font-family: "Roboto", sans-serif;
-
   background-color: rgb(0, 0, 0);
 }
+
 header {
   display: flex;
   justify-content: center;
@@ -32,6 +31,7 @@ header {
   justify-content: center;
   color: white;
 }
+
 .img2 {
   height: 90px;
   width: 100%;
@@ -40,15 +40,18 @@ header {
   border: 1px solid transparent;
   display: flex;
 }
+
 .img2:hover {
   border: 1px solid rgba(128, 128, 128, 0.568);
 }
+
 .nome {
   display: flex;
   justify-content: center;
   font-size: 12px;
   margin-top: 6px;
 }
+
 .plus {
   height: 50px;
   width: 52%;
@@ -61,14 +64,19 @@ header {
   background-color: rgba(51, 49, 49, 0.689);
   font-size: 12px;
 }
+
 .plus:hover {
   border: 1px solid rgba(128, 128, 128, 0.568);
   background-color: rgba(51, 49, 49, 0.689);
 }
+
 .span1 {
   margin: 8px;
   padding: 5px;
+  width: 90px;
+  height: 80px;
 }
+
 .nome1 {
   font-size: 11px;
   margin-top: 6px;
@@ -76,12 +84,14 @@ header {
   justify-content: center;
   margin-left: 10px;
 }
+
 .segunda-section {
   display: flex;
   justify-content: center;
   height: 60px;
   margin-top: 60px;
 }
+
 .button {
   height: 70%;
   width: 150px;
@@ -91,6 +101,7 @@ header {
   background-color: black;
   padding: 10px;
 }
+
 .button:hover {
   background-color: rgba(255, 255, 255, 0.656);
   color: black;
