@@ -20,7 +20,9 @@ header {
   margin: 20px;
   padding: 2px;
   height: 160px;
+  width: 90%;
   color: rgb(251, 250, 248);
+  border: 2px solid;
 }
 
 .text1 {
