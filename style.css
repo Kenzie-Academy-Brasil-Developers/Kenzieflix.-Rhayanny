@@ -18,9 +18,9 @@ header {
   display: flex;
   justify-content: center;
   margin: 20px;
-  padding: 2px;
+  padding: 10px;
   height: 160px;
-  width: 90%;
+  width: 96%;
   color: rgb(251, 250, 248);
 }
 
